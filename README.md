@@ -1,3 +1,1 @@
-# UMass-Boston-Audrey-Doyle
-Tips to organizing research\
-Audrey Doyle
+Hello! This project is a p
